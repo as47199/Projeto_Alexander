@@ -1,0 +1,31 @@
+p {
+	font-family: "Verdana, Arial, Courier New"; font-size: 20px; color: black; text-align: justify;
+}
+
+h1 { 
+	font-size: 36px;
+}
+
+ul {
+	font-style: italic; font-size: 18px;
+}
+
+#principal {
+	margin: 10px 30px auto; width: 100%; max-width: 960px;
+}
+
+#logo {
+	margin: 10px 10px auto; width: 200px; height: 62px;
+}
+
+header {
+	font-size: 25px; text-align: center;
+}
+
+#s01 {
+	width: 250px; background-color: #6495ED; position: relative; padding: 10px; margin: 10px;
+}
+
+#n01 {
+
+}

@@ -1,0 +1,23 @@
+#p01 {
+	font-family: "Verdana"; font-size: 20px; color: blue; text-align: justify;
+}
+
+#p02 {
+	font-family: "Arial"; font-size: 20px; color: red; text-align: justify;
+}
+
+#p03 {
+	font-family: "Courier New"; font-size: 20px; color: green; text-align: justify;
+}
+
+#logo01 {
+	margin: 10px 10px auto; width: 724px; height: 468px;
+}
+
+#logo02 {
+	margin: 10px 10px auto; width: 724px; height: 468px;
+}
+
+h1 { 
+	font-size: 36px;
+}

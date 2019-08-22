@@ -1,0 +1,86 @@
+main {
+	margin: 10px auto; width: 960px; height: auto; padding: 5px 10px; 
+}
+
+header{
+	font-family: "Monotype Corsiva"; color: green; height: 30px; padding: 10px; margin-top: 10px; font-size: 36px;
+}
+
+nav {
+	height: 5px; text-align: right; padding: 10px; color: #A9A9A9; font-size: 20px;
+}
+
+#div01 {
+	height: auto; padding: 10px; display: table;
+}
+
+#div02 {
+	width: 210px; padding: 10px; float: left; margin-left: 10px;
+}
+
+#div03 {
+	width: 210px; padding: 10px; float: left; margin-left: 10px;
+}
+
+#div04 {
+	width: 210px; padding: 10px; float: left; margin-left: 10px;
+}
+
+#div05 {
+	width: 210px; padding: 10px; float: left; margin-left: 10px;
+}
+
+#img01 {
+	width: 930px; height: 450px; float: right; padding: 10px; 
+}
+
+#img02 {
+	width: 210px; height: 200px; float: right;
+}
+
+#img03 {
+	width: 210px; height: 200px; float: right;
+}
+
+#img04 {
+	width: 210px; height: 200px; float: right;
+}
+
+#img05 {
+	width: 210px; height: 200px; float: right;
+}
+
+#t {
+	position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    color:#fff;
+    text-align: left;
+    top: 175px;
+    width: 450px;
+    line-height: 30px;
+    height: 325px;
+    margin-left: 10px;
+    float: right;
+    font-family: Arial;
+    
+}
+
+footer {
+	float: left;
+}
+
+#p01 {
+	margin-left: 45px;
+	font-size: 42px;
+}
+
+#p02 {
+	margin-left: 45px;
+	font-size: 20px;
+}
+
+#p {
+	margin-left: 45px;
+	font-size: 20px;
+	color: #00BFFF;
+}

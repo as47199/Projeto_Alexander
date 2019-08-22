@@ -1,0 +1,51 @@
+header {
+	border-style: solid; border-width: 1px;   
+	width: 1400; height: 80px;
+	background-color: #4682B4;
+	background-repeat: no-repeat;
+}
+
+#menu {
+	position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    color:#fff;
+    text-align: left;
+    top: 150px;
+    width: 250px;
+    line-height: 30px;
+    height: 500px;
+    margin-left: 10px;
+    float: left;
+}
+
+#menu ul {
+	font-family: Algerian, sans-serif;
+	font-size: 25px;
+	list-style: none;
+}
+
+#h1 {
+	font-family: Monotype Corsiva; color: #1E90FF; font-size: 80px;
+}
+
+#div1 {
+	border-style: solid; border-width: 1px;   
+	width: 1050px; height: 180px;
+	background-color: #4682B4;
+	float: right;
+	margin-top: 60px;
+	font-size: 36px;
+}
+
+#p1 {
+	margin: 10px;
+
+}
+
+#pp {
+	font-size: 36px; 
+}
+
+footer {
+
+}
